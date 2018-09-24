@@ -1,6 +1,6 @@
 package com.imooc.log.dao
 
-import com.imooc.log.bean.CourseClickCount
+import com.imooc.log.bean.{CourseClickCount, CourseRefererCount}
 import com.imooc.log.utils.HbaseUtils
 import org.apache.hadoop.hbase.client.Get
 import org.apache.hadoop.hbase.util.Bytes
@@ -8,7 +8,8 @@ import org.apache.hadoop.hbase.util.Bytes
 import scala.collection.mutable.ListBuffer
 
 object CourseClickCountDao {
-    val tableName="imooc_course_clickcount"
+
+  val tableName="imooc_course_clickcount"
   val cf="info"
   val qualifer="click_count"
 
@@ -19,6 +20,7 @@ object CourseClickCountDao {
 
       }
   }
+
 
 
   def count(day_course:String):Long={

@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23eb6d93-b047-4b0e-acc1-df1953c15308" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/bean/CourseRefererCount.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/dao/CourseRefererCountDao.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/ImoocLogCleanAndReduce.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/ImoocLogCleanAndReduceYARN.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/imooc/log/dao/CourseClickCountDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/dao/CourseClickCountDao.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/ImoocLogClean.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/ClickLog$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/ClickLog$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/ClickLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/ClickLog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/CourseClickCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/CourseClickCount$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/CourseClickCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/CourseClickCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/test1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/test1$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/bean/test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/dao/CourseClickCountDao$$anonfun$save$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/dao/CourseClickCountDao$$anonfun$save$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/dao/CourseClickCountDao$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/dao/CourseClickCountDao$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/dao/CourseClickCountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/dao/CourseClickCountDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$$anonfun$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$$anonfun$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$$anonfun$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$$anonfun$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$$anonfun$main$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/job/GetKafka.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/ImoocLogClean$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/ImoocLogClean$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/ImoocLogClean$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/ImoocLogClean$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/ImoocLogClean$$anonfun$main$3$$anonfun$apply$1$$anonfun$apply$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/ImoocLogClean$$anonfun$main$3$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/ImoocLogClean$$anonfun$main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/ImoocLogClean$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/job/ImoocLogClean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/utils/DateUtils$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/utils/DateUtils$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/utils/DateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/utils/DateUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/utils/HbaseUtils$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/utils/HbaseUtils$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/log/utils/HbaseUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/log/utils/HbaseUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/zhk/LoggerGenerator$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/zhk/LoggerGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sparktrain-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -102,15 +57,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ddl.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.3.1/spark-sql_2.11-2.3.1-sources.jar!/org/apache/spark/sql/execution/command/ddl.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="806" column="6" selection-start-line="806" selection-start-column="6" selection-end-line="806" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ImoocLogCleanAndReduceYARN.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/log/job/ImoocLogCleanAndReduceYARN.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -123,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImoocLogCleanAndReduce.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImoocLogCleanAndReduce.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/log/job/ImoocLogCleanAndReduce.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="704">
@@ -131,6 +77,18 @@
               <folding>
                 <element signature="e#27#101#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="132">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -222,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/ImoocLogCleanAndReduce.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/ImoocLogCleanAndReduceYARN.scala" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -335,14 +294,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkStreamImoocLog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkStreamImoocLog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SparkStreamImoocLog" type="b2602c69:ProjectViewProjectNode" />
@@ -567,12 +518,12 @@
       <workItem from="1536715249599" duration="31057000" />
       <workItem from="1537067477376" duration="122000" />
       <workItem from="1537149048435" duration="3337000" />
-      <workItem from="1537163920064" duration="18481000" />
+      <workItem from="1537163920064" duration="20699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93488000" />
+    <option name="totallyTimeSpent" value="95706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -596,7 +547,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info active="true" anchor="right" id="Run" order="7" sideWeight="0.7975544" side_tool="true" type="SLIDING" visible="true" weight="0.43705294" />
+      <window_info anchor="right" id="Run" order="7" sideWeight="0.7975544" side_tool="true" type="SLIDING" weight="0.43705294" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" sideWeight="0.49707603" type="SLIDING" weight="0.2832618" />
       <window_info anchor="top" id="Bean Validation" order="0" side_tool="true" />
@@ -622,7 +573,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerRecord.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/dstream/InputDStream.scala" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.3.1/spark-streaming-kafka-0-10_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/kafka010/KafkaUtils.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/spark/KafkaStreamingApp.scala" />
@@ -868,6 +818,16 @@
           <folding>
             <element signature="e#27#101#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
